@@ -39,4 +39,4 @@ betSeq <- GenerateBetSeq(stakeSeq)
 
 # Frequeny of Wealth & Bet
 wealthFreq <- table(stakeSeq)
-betSeq <- table(betSeq)
+betFreq <- table(betSeq)
